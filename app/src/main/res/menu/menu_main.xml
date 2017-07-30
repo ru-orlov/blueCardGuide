@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="bcbuide.ruorlov.ru.bluecardguide.MainActivity">
+    <item
+        android:id="@+id/bluecard_system"
+        android:orderInCategory="1"
+        android:title="Blue Card System" />
+    <item
+        android:id="@+id/who_can_get"
+        android:orderInCategory="2"
+        android:title="Who can get a card?" />
+    <item
+        android:id="@+id/can_i_qualify"
+        android:orderInCategory="3"
+        android:title="Can I qualify" />
+    <item
+        android:id="@+id/list_of_specialties"
+        android:orderInCategory="4"
+        android:title="List of specialties" />
+</menu>
