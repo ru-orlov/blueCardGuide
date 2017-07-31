@@ -9,6 +9,7 @@
         android:layout_height="wrap_content"
         android:text="@string/list_of_spec"
         android:scrollbars="vertical"
+        android:padding="10px"
         />
 
 </ScrollView>

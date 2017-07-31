@@ -16,5 +16,7 @@ public class CanIQualify extends Activity{
 
         canIAuality = (TextView)findViewById(R.id.can_i_qualify);
         canIAuality.setText(Html.fromHtml(String.valueOf(canIAuality.getText())), TextView.BufferType.SPANNABLE);
+
+
     }
 }
