@@ -73,14 +73,14 @@
 
 		<h2>What is the blue card check?</h2>
 		<p>The blue card check assesses:</p>
-		
+
 			&ndash;&nbsp;national criminal history, of all charges and convictions (including spent and not recorded)<br>
 			&ndash;&nbsp;child protection prohibition orders (whether a person is a respondent or subject to an application)<br>
 			&ndash;&nbsp;disqualification orders<br>
 			&ndash;&nbsp;if a person is subject to reporting obligations under the Child Protection (Offender Reporting) Act 2004 or Dangerous Prisoners (Sexual Offenders) Act 2003<br>
 			&ndash;&nbsp;disciplinary information held by certain professional organisations including teachers, child care providers and foster carers <br>
 			&ndash;information that the Police Commissioner may provide in relation to police investigations into allegations of serious	child-related sexual offences, even if no charges were laid.<br>
-		
+
 		<p>A person whose application is approved is issued with a positive notice letter and a blue card. If a person’s application is refused, they are issued with a negative notice which prohibits them from carrying on a business or providing child-related activities in the categories regulated by the Working with Children (Risk Management and Screening) Act 2000. </p>
 
 		<h2>Are there any exemptions?</h2>
@@ -97,13 +97,13 @@
     <string name="what_i_need" formatted="false"><![CDATA[
     <h2>What necessary for apply for a blue card?</h2>
     <p>A blue card is a special case of a residence permit. Conditions may vary in different EU countries. There are also some general necessary requirements:</p>
-    
+
     &ndash;&nbsp;citizenship of a non-EU country<br>
     &ndash;&nbsp;employment contract for 1 year or more with the official employer of the selected country<br>
     &ndash;&nbsp;documentary proof of qualification from <u>the list of highly demanded specialties</u>. For example, a diploma<br>
     &ndash;&nbsp;health insurance contract or statement<br>
     &ndash;&nbsp;the applicant`s safety for the country and society. A document on the absence of problems with the law.<br>
-    
+
     <p>General provisions are given, the EU consists of 28 countries, therefore the Directive gives the right to each of them to make withdrawals or enter quotas for certain professions and thus to protect their labor market. </p>
 ]]></string>
     <string name="list_of_spec" formatted="false">
@@ -120,7 +120,7 @@
 			&ndash;&nbsp;engineers <br>
 			&ndash;&nbsp;financial analysts <br>
 			&ndash;&nbsp;IT-specialists. <br>
-		
+
 
 ]]>
     </string>
