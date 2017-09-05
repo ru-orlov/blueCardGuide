@@ -5,8 +5,6 @@ import android.os.Bundle;
 import android.text.Html;
 import android.widget.TextView;
 
-import java.io.InputStream;
-
 public class ListOfSpecialities extends Activity {
 
     TextView listOfSpecialities;
