@@ -15,23 +15,28 @@
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity android:name=".WhoCanActivity"
-            android:label="@string/who_can_get">
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity android:name=".CanIQualify"
-            android:label="@string/what_i_need">
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity android:name=".ListOfSpecialities"
-            android:label="@string/list_of_spec">
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT" />
                 <action android:name="android.intent.action.VIEW" />
                 <data android:scheme="bcbuide.ruorlov.ru.bluecardguide.listofspecialities" />
             </intent-filter>
+        </activity>
+        <activity android:name=".MenuActivity"
+            android:theme="@style/AppTheme.NoActionBar">
         </activity>
     </application>
 

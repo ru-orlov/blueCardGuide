@@ -7,12 +7,9 @@
     android:orientation="vertical"
     tools:menu="menu_main">
 
-    <android.support.v7.widget.Toolbar
+    <include
         android:id="@+id/toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
-        android:popupTheme="@style/AppTheme.PopupOverlay"/>
+        layout="@layout/tollbar_main"/>
 
     <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
         android:orientation="vertical" android:layout_width="match_parent"
