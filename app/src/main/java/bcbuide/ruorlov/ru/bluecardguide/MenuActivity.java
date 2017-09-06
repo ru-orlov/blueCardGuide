@@ -36,6 +36,9 @@ public class MenuActivity extends AppCompatActivity {
                 intent = new Intent(this, ListOfSpecialities.class);
                 startActivity(intent);
                 return true;
+            case R.id.close_app:
+                finishAffinity();
+                return true;
         }
 
         return super.onOptionsItemSelected(item);

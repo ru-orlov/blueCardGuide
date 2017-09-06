@@ -15,4 +15,8 @@
         android:id="@+id/list_of_specialties"
         android:orderInCategory="4"
         android:title="List of specialties" />
+    <item
+        android:id="@+id/close_app"
+        android:orderInCategory="5"
+        android:title="Exit" />
 </menu>
